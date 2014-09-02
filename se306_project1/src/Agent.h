@@ -31,6 +31,7 @@ class Agent
 			checkpointAngle = 0;
 			isClockwise = true;
 			robot_id = 0;
+			isMoving = false;
 		}
 
 		void StageOdom_callback(nav_msgs::Odometry msg);
