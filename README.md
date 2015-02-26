@@ -13,15 +13,15 @@ In this project, we simulate small groups of robots that show simple collective 
 <strong>Samanyu Kansara</strong><br/>
 Project Lead<br/><br/>
 <strong>John Lee</strong><br/>
-Solutions Architect<br/><br/>
+Software Design<br/><br/>
 <strong>Harriet Robinson-Chen</strong><br/>
 Systems Analyst, Documentalist<br/><br/>
 <strong>Alan Lau</strong><br/>
 Planner, Systems Analyst<br/><br/>
 <strong>Mustafa Shehadeh</strong><br/>
-Software Designer<br/><br/>
+Software Design<br/><br/>
 <strong>Dae Kyung Kim</strong><br/>
-Software Designer<br/><br/>
+Software Design<br/><br/>
 <strong>Kester Balmes</strong><br/>
 Quality Engineer, Tester<br/><br/>
 <strong>Rodel Jasper Rojos</strong><br/>
